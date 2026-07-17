@@ -1,16 +1,90 @@
-## Hi there 👋
+# Hi 👋, I'm Jeevan Khatri
 
-<!--
-**Khatrijeevan223/Khatrijeevan223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | C++ | C# | SQL | Web Development
 
-Here are some ideas to get you started:
+I'm currently pursuing an Associate Degree in Software Development and enjoy building software that solves real-world problems. My goal is to become a full-stack software developer by creating professional projects and continuously improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Learning
+
+- C++
+- C#
+- Object-Oriented Programming
+- Data Structures
+- SQL & MySQL
+- HTML, CSS & JavaScript
+- Git & GitHub
+
+---
+
+## 💻 Current Project
+
+🔹 Student Management System (C#)
+
+Features:
+- Student Records
+- CRUD Operations
+- Search Functionality
+- File Handling
+- SQL Database (Coming Soon)
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| Student Management System | Console application built with C# |
+| Portfolio Website | Personal portfolio showcasing my projects |
+| More Projects Coming Soon... | Stay tuned! |
+
+---
+
+## 🛠️ Technologies
+
+### Languages
+- C++
+- C#
+- SQL
+- JavaScript
+- HTML
+- CSS
+
+### Tools
+- Visual Studio
+- Visual Studio Code
+- Git
+- GitHub
+- MySQL
+
+---
+
+## 🎯 Goals for 2026
+
+- Build 5+ professional projects
+- Master C#
+- Learn ASP.NET Core
+- Improve Data Structures & Algorithms
+- Contribute to open-source projects
+- Land a Software Developer Internship
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khatrijeevan223&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khatrijeevan223&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 **Email:** khatrijeevan223@gmail.com
+- 💻 **GitHub:** [Khatrijeevan223](https://github.com/Khatrijeevan223)
+- 💼 **LinkedIn:** [Jeevan Khatri](https://www.linkedin.com/in/jeevan-khatri-10b4bb363)
+
+---
+
+⭐ Thanks for visiting my profile! I'm always learning, building, and improving.

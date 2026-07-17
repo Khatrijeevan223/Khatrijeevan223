@@ -71,13 +71,6 @@ Features:
 
 ---
 
-## 📈 GitHub Stats
-
-(https://github-readme-stats.vercel.app/api?username=Khatrijeevan223&show_icons=true&theme=tokyonight)
-
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Khatrijeevan223&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 

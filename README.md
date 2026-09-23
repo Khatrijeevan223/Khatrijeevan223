@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jeevan Khatri
 
-### Aspiring Software Developer | C++ | C# | SQL | Web Development
+### Aspiring Software Developer | C++ | SQL | Web Development
 
 I'm currently pursuing an Associate Degree in Software Development and enjoy building software that solves real-world problems. My goal is to become a full-stack software developer by creating professional projects and continuously improving my programming skills.
 
@@ -9,7 +9,7 @@ I'm currently pursuing an Associate Degree in Software Development and enjoy bui
 ## 🚀 Currently Learning
 
 - C++
-- C#
+- Network+
 - Object-Oriented Programming
 - Data Structures
 - SQL & MySQL
@@ -20,11 +20,11 @@ I'm currently pursuing an Associate Degree in Software Development and enjoy bui
 
 ## 💻 Current Project
 
-🔹 Student Management System (C#)
+🔹 NEPSE Analyzer(Real-Time Stock Data Fetching)
 
 Features:
-- Student Records
-- CRUD Operations
+- Live Data
+- Watchlist
 - Search Functionality
 - File Handling
 - SQL Database (Coming Soon)
@@ -35,7 +35,7 @@ Features:
 
 | Project | Description |
 |---------|-------------|
-| Student Management System | Console application built with C# |
+| NEPSE Data Analyzer | Console application built with C# |
 | Portfolio Website | Personal portfolio showcasing my projects |
 | More Projects Coming Soon... | Stay tuned! |
 
@@ -45,7 +45,7 @@ Features:
 
 ### Languages
 - C++
-- C#
+- Network+
 - SQL
 - JavaScript
 - HTML
@@ -63,7 +63,7 @@ Features:
 ## 🎯 Goals for 2026
 
 - Build 5+ professional projects
-- Master C#
+- Master Python
 - Learn ASP.NET Core
 - Improve Data Structures & Algorithms
 - Contribute to open-source projects
